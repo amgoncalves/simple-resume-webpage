@@ -1,4 +1,4 @@
-# High School Resume Webpage
+# Resume Webpage
 
 A simple resume webpage to teach introductory HTML and CSS to students with no previous coding experience.  Cleaned-up version of a website that was built from scratch presentation-style during class.  Students followed along while adding their own customized content and styles.
 
